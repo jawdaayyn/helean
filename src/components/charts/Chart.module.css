@@ -1,6 +1,7 @@
 @import url("https://fonts.cdnfonts.com/css/geomanist");
 
-body {
-  margin: 0;
+.label {
+  font-size: 17px;
+  font-weight: 500;
   font-family: -apple-system, "Geomanist", sans-serif;
 }
